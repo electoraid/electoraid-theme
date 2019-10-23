@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-theme-electoraid",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "David Eads <davideads@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  }
+}
