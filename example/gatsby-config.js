@@ -1,3 +1,11 @@
 module.exports = {
-  plugins: [{ resolve: `gatsby-theme-electoraid`, options: {} }],
+  siteMetadata: {
+    title: `Electoraid`,
+    description: `Electoraid`,
+    siteName: `Electoraid`,
+    twitterHandle: `thechicagoreporter`,
+  },
+  plugins: [
+    `gatsby-theme-electoraid`
+  ]
 }

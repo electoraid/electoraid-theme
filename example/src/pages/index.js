@@ -1,3 +1,5 @@
 import React from "react"
 
-export default () => <div>Homepage in a user's site</div>
+export default () => {
+    return <div>Homepage in a user's site</div>
+}
