@@ -1,0 +1,13 @@
+{
+    "title":"Not implemented, please write translation files",
+    "politicianTable": {
+        "columns": {
+            "firstName": "First name",
+            "lastName": "Last name",
+            "positionName": "Position",
+            "start": "Term start",
+            "end": "Term end",
+            "pacs": "Fundraising committees"
+        }
+    }
+}
